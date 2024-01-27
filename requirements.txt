@@ -1,0 +1,8 @@
+python-dotenv
+pandas
+litellm
+# for dev
+ruff
+pytest
+pre-commit
+pytest-html
