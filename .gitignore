@@ -159,10 +159,13 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+.vscode/
 
 # Custom
 temp
 data/
+results/
 pytest-report.html
-
+.openai_cache/
+.assistant_cache/
 !/**/.gitkeep

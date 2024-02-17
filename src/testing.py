@@ -1,0 +1,3 @@
+def mock_openai(lib: str):
+    # TODO
+    ...

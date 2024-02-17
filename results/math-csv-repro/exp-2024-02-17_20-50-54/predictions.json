@@ -1,0 +1,2642 @@
+{
+    "math/intermediate_algebra/2130": {
+        "prediciton": "6",
+        "answer": "10",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1823": {
+        "prediciton": null,
+        "answer": "12",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2171": {
+        "prediciton": "(8, 5)",
+        "answer": "(4,1)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/154": {
+        "prediciton": "(4, 1, 4, 0)",
+        "answer": "(4,1,4,0)",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2126": {
+        "prediciton": "90",
+        "answer": "73",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1136": {
+        "prediciton": "1.4142135623730951",
+        "answer": "\\sqrt{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/800": {
+        "prediciton": "840",
+        "answer": "840",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/945": {
+        "prediciton": "q(x) = -3(x - 1)(x + 2)",
+        "answer": "-3(x+2)(x-1)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/251": {
+        "prediciton": null,
+        "answer": "743",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1321": {
+        "prediciton": "763",
+        "answer": "763",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1399": {
+        "prediciton": null,
+        "answer": "6",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/713": {
+        "prediciton": "0",
+        "answer": "0",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/986": {
+        "prediciton": null,
+        "answer": "\\frac{16}{5}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2059": {
+        "prediciton": "1.0",
+        "answer": "1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/139": {
+        "prediciton": null,
+        "answer": "[3,\\infty)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1788": {
+        "prediciton": "3",
+        "answer": "3",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/302": {
+        "prediciton": "1",
+        "answer": "1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/16": {
+        "prediciton": "a",
+        "answer": "a",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1194": {
+        "prediciton": "496",
+        "answer": "496",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/322": {
+        "prediciton": "2",
+        "answer": "2",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1252": {
+        "prediciton": null,
+        "answer": "\\frac{105}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1497": {
+        "prediciton": "3",
+        "answer": "3",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1993": {
+        "prediciton": "x + 6",
+        "answer": "x+6",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/226": {
+        "prediciton": "\\frac{1}{5}, \\frac{1}{4}, \\frac{2}{5}, \\frac{1}{2}",
+        "answer": "\\frac{1}{5}, \\frac{1}{4}, \\frac{2}{5}, \\frac{1}{2}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1842": {
+        "prediciton": null,
+        "answer": "4",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1511": {
+        "prediciton": "2\\sqrt{3}",
+        "answer": "2 \\sqrt{3}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1792": {
+        "prediciton": "\\infty",
+        "answer": "2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/123": {
+        "prediciton": "0",
+        "answer": "1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1680": {
+        "prediciton": "0.08333333333333333",
+        "answer": "\\frac{1}{12}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/82": {
+        "prediciton": "-1",
+        "answer": "17",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1803": {
+        "prediciton": "3.14",
+        "answer": "\\pi",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1291": {
+        "prediciton": "6",
+        "answer": "30",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2003": {
+        "prediciton": null,
+        "answer": "14",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2146": {
+        "prediciton": "226",
+        "answer": "406",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1506": {
+        "prediciton": "3.5",
+        "answer": "\\frac{7}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1678": {
+        "prediciton": "-6",
+        "answer": "-6",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/572": {
+        "prediciton": null,
+        "answer": "3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/122": {
+        "prediciton": "\\frac{2}{9}",
+        "answer": "\\frac{2}{9}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1814": {
+        "prediciton": null,
+        "answer": "-1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1793": {
+        "prediciton": "4561",
+        "answer": "4561",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/362": {
+        "prediciton": "40",
+        "answer": "40",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/677": {
+        "prediciton": "\\text{infinitely many}",
+        "answer": "1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1992": {
+        "prediciton": "x \\in (0, 9) \\cup (9, 36)",
+        "answer": "(0,9) \\cup (9,36)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1091": {
+        "prediciton": "-\\frac{1}{2}",
+        "answer": "-\\frac{1}{2}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1245": {
+        "prediciton": "6x",
+        "answer": "6x",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1615": {
+        "prediciton": "10",
+        "answer": "20",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/509": {
+        "prediciton": "(1, -2, 2, -3)",
+        "answer": "(1,-2,2,-3)",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1496": {
+        "prediciton": "3",
+        "answer": "3",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/289": {
+        "prediciton": "16",
+        "answer": "5",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/636": {
+        "prediciton": "5x^2 + 21x",
+        "answer": "5x^2+21x",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2078": {
+        "prediciton": "7",
+        "answer": "7",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1438": {
+        "prediciton": "327680",
+        "answer": "327680",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1859": {
+        "prediciton": "0",
+        "answer": "-14",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1048": {
+        "prediciton": "-2.0",
+        "answer": "1,-2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/60": {
+        "prediciton": "9",
+        "answer": "9",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2058": {
+        "prediciton": "3968.0",
+        "answer": "3968",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/591": {
+        "prediciton": "24",
+        "answer": "24",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/207": {
+        "prediciton": "-1",
+        "answer": "-1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/745": {
+        "prediciton": null,
+        "answer": "-376",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1770": {
+        "prediciton": "1",
+        "answer": "1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1137": {
+        "prediciton": "8",
+        "answer": "8",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/102": {
+        "prediciton": "\\frac{1}{2}",
+        "answer": "2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1834": {
+        "prediciton": "3",
+        "answer": "3",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1588": {
+        "prediciton": "(-\\infty, -2) \\cup (0, 1) \\cup (2, 4)",
+        "answer": "(-\\infty, -2) \\cup (0, 1) \\cup (2, 4)",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/694": {
+        "prediciton": "561",
+        "answer": "561",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/786": {
+        "prediciton": "21",
+        "answer": "15",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1526": {
+        "prediciton": "\\frac{1}{4}",
+        "answer": "\\frac{1}{4}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/790": {
+        "prediciton": null,
+        "answer": "-\\frac{9}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/817": {
+        "prediciton": "3980025",
+        "answer": "3980025",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1121": {
+        "prediciton": "-2",
+        "answer": "-2",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1208": {
+        "prediciton": "1023",
+        "answer": "1023",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/47": {
+        "prediciton": "(2, 1)",
+        "answer": "(-2,1)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1487": {
+        "prediciton": null,
+        "answer": "42",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1741": {
+        "prediciton": "8",
+        "answer": "8",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1612": {
+        "prediciton": "4, -2 - 3i, -2 + 3i",
+        "answer": "4, -2 + 3i, -2 - 3i",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/109": {
+        "prediciton": "2",
+        "answer": "2",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/365": {
+        "prediciton": "1",
+        "answer": "1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/934": {
+        "prediciton": "32",
+        "answer": "25",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/488": {
+        "prediciton": "9.73",
+        "answer": "\\frac{25}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1517": {
+        "prediciton": "\\sqrt{67}",
+        "answer": "\\sqrt{67}, -\\sqrt{85}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/871": {
+        "prediciton": "x \\in (-\\infty, -2) \\cup (2, \\infty)",
+        "answer": "(-\\infty, -2] \\cup [2, \\infty)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1405": {
+        "prediciton": "27.71",
+        "answer": "16 \\sqrt{3}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/430": {
+        "prediciton": "498,590",
+        "answer": "996506",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/922": {
+        "prediciton": "(-\\infty, \\frac{3}{7}) \\cup (\\frac{3}{5}, \\infty)",
+        "answer": "(-\\infty, \\tfrac37] \\cup [\\tfrac35, \\infty) ",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1782": {
+        "prediciton": "2",
+        "answer": "2",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2141": {
+        "prediciton": "78.54",
+        "answer": "25 \\pi",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1126": {
+        "prediciton": "34.065",
+        "answer": "16",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1063": {
+        "prediciton": null,
+        "answer": "1+274i",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2024": {
+        "prediciton": "2",
+        "answer": "2",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1608": {
+        "prediciton": "4",
+        "answer": "4",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/847": {
+        "prediciton": "-4, -3, -1, 1, 2, 5",
+        "answer": "-4, -3, -1, 1, 2, 5",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1171": {
+        "prediciton": "8",
+        "answer": "8",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2065": {
+        "prediciton": "48",
+        "answer": "48",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1560": {
+        "prediciton": null,
+        "answer": "19, 22",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1130": {
+        "prediciton": "(a, b) \\approx (10.24, 49)",
+        "answer": "(7,49)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/715": {
+        "prediciton": null,
+        "answer": "0",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/345": {
+        "prediciton": null,
+        "answer": "504",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1389": {
+        "prediciton": "4",
+        "answer": "4",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/703": {
+        "prediciton": "1",
+        "answer": "1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/580": {
+        "prediciton": "1",
+        "answer": "1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1448": {
+        "prediciton": "0.25",
+        "answer": "\\frac{1}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1808": {
+        "prediciton": "-1.25",
+        "answer": "-\\frac{5}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/352": {
+        "prediciton": "0, 4",
+        "answer": "0,4",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/714": {
+        "prediciton": "233.33",
+        "answer": "\\frac{700}{3}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/190": {
+        "prediciton": null,
+        "answer": "2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1799": {
+        "prediciton": "5.33",
+        "answer": "\\frac{16}{3}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/368": {
+        "prediciton": "0.61",
+        "answer": "0.61",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1865": {
+        "prediciton": "0",
+        "answer": "-1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/295": {
+        "prediciton": "2",
+        "answer": "1,2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1873": {
+        "prediciton": "38078",
+        "answer": "2150",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/145": {
+        "prediciton": "0.25",
+        "answer": "\\frac{1}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/779": {
+        "prediciton": "0.1111111111111111",
+        "answer": "-\\frac{1}{7}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2160": {
+        "prediciton": "30",
+        "answer": "10",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/470": {
+        "prediciton": "6",
+        "answer": "6",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/889": {
+        "prediciton": "111",
+        "answer": "111",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/85": {
+        "prediciton": "\\text{Infinitely many}",
+        "answer": "3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1107": {
+        "prediciton": "(5, 1)",
+        "answer": "(2,3)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1238": {
+        "prediciton": "\\frac{1}{z}",
+        "answer": "\\frac{1}{z}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/348": {
+        "prediciton": "79",
+        "answer": "79",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/827": {
+        "prediciton": "3",
+        "answer": "9",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1003": {
+        "prediciton": "-81",
+        "answer": "-81",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/364": {
+        "prediciton": "3",
+        "answer": "3",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2068": {
+        "prediciton": "-9",
+        "answer": "-9",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1097": {
+        "prediciton": "x = \\frac{3}{2}",
+        "answer": "x = \\frac{3}{2}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1306": {
+        "prediciton": "5",
+        "answer": "18",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/325": {
+        "prediciton": "2",
+        "answer": "2",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1347": {
+        "prediciton": "x + 1",
+        "answer": "x+1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/237": {
+        "prediciton": "-30",
+        "answer": "150",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/998": {
+        "prediciton": "553",
+        "answer": "553",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1411": {
+        "prediciton": null,
+        "answer": "440",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2": {
+        "prediciton": "169",
+        "answer": "13",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/90": {
+        "prediciton": "898",
+        "answer": "898",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1407": {
+        "prediciton": "6",
+        "answer": "6",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1283": {
+        "prediciton": "2\\sqrt{3}",
+        "answer": "2 \\sqrt{3}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1779": {
+        "prediciton": null,
+        "answer": "15",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2010": {
+        "prediciton": "0",
+        "answer": "1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1846": {
+        "prediciton": "1700",
+        "answer": "1700",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1145": {
+        "prediciton": "2.4495",
+        "answer": "\\sqrt{6}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/808": {
+        "prediciton": "-24",
+        "answer": "-48",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1885": {
+        "prediciton": "100",
+        "answer": "100",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1606": {
+        "prediciton": "2",
+        "answer": "8",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/776": {
+        "prediciton": "4",
+        "answer": "3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1893": {
+        "prediciton": "0.006944444444444445",
+        "answer": "\\frac{1}{144}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1981": {
+        "prediciton": "(2, 12) \\cup (12, 102)",
+        "answer": "(2,12) \\cup (12,102)",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/869": {
+        "prediciton": "-0.5",
+        "answer": "-\\frac{1}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/243": {
+        "prediciton": null,
+        "answer": "913",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/994": {
+        "prediciton": "340",
+        "answer": "340",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/24": {
+        "prediciton": null,
+        "answer": "401",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/193": {
+        "prediciton": "-\\sqrt{2} + 9 + \\sqrt{101}",
+        "answer": "\\sqrt{101} - \\sqrt{2} + 9",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1260": {
+        "prediciton": "0",
+        "answer": "5",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/605": {
+        "prediciton": "\\left(-\\frac{3}{2}, 6\\right)",
+        "answer": "(-\\frac{3}{2},6)",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1020": {
+        "prediciton": "5 - 10i",
+        "answer": "-3 + 6i",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1523": {
+        "prediciton": null,
+        "answer": "\\text{E}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/795": {
+        "prediciton": "229",
+        "answer": "229",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1348": {
+        "prediciton": "8",
+        "answer": "5",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/48": {
+        "prediciton": null,
+        "answer": "17",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2027": {
+        "prediciton": "\\left[\\frac{1}{2}, \\frac{3}{2}\\right]",
+        "answer": "\\left[ \\frac{1}{2}, \\frac{3}{2} \\right]",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1522": {
+        "prediciton": "8.0",
+        "answer": "8",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/147": {
+        "prediciton": null,
+        "answer": "18",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/628": {
+        "prediciton": "-1",
+        "answer": "\\frac{3}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1758": {
+        "prediciton": "1820",
+        "answer": "729",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/444": {
+        "prediciton": "1",
+        "answer": "0",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2123": {
+        "prediciton": "33",
+        "answer": "51",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/690": {
+        "prediciton": "(1, -16, -4, 43)",
+        "answer": "(1,-16,-4,43)",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1975": {
+        "prediciton": "\\sqrt{2}",
+        "answer": "\\sqrt{2}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/741": {
+        "prediciton": "90",
+        "answer": "90",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/487": {
+        "prediciton": "(4.25, 0)",
+        "answer": "\\left(\\frac{17}{4},0\\right)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1723": {
+        "prediciton": "y = -\\frac{1}{2}x^2 + 4x - 6",
+        "answer": "y = -\\frac{1}{2} x^2 + 4x - 6",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/983": {
+        "prediciton": "\n\\begin{align*}\nx_1 &= -\\frac{b}{4} - \\frac{d}{4} - \\frac{\\sqrt{b^2 + 2bd + d^2 - 8e - 72}}{4} \\\\\nx_2 &= -\\frac{b}{4} - \\frac{d}{4} + \\frac{\\sqrt{b^2 + 2bd + d^2 - 8e - 72}}{4}\n\\end{align*}\n",
+        "answer": "3i,-3i",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1220": {
+        "prediciton": "512",
+        "answer": "512",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/64": {
+        "prediciton": "\\frac{24}{5}",
+        "answer": "\\frac{24}{5}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/757": {
+        "prediciton": "272",
+        "answer": "272",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1762": {
+        "prediciton": null,
+        "answer": "8",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/612": {
+        "prediciton": "\\frac{1}{18}",
+        "answer": "\\frac{1}{18}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1650": {
+        "prediciton": null,
+        "answer": "104",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2093": {
+        "prediciton": "\\frac{3}{2}, -2",
+        "answer": "-2,\\frac{3}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/327": {
+        "prediciton": null,
+        "answer": "32",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1241": {
+        "prediciton": "1",
+        "answer": "8",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/673": {
+        "prediciton": null,
+        "answer": "2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1353": {
+        "prediciton": "3x - 2",
+        "answer": "3x - 2",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1451": {
+        "prediciton": "\\frac{1}{3}",
+        "answer": "\\frac{1}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1902": {
+        "prediciton": "(x^2 + 1)(x^2 - 4x + 13)",
+        "answer": "(x^2 + 1)(x^2 - 4x + 13)",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1282": {
+        "prediciton": "(10.0, 14.0, 61.0)",
+        "answer": "(10,14,61)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1797": {
+        "prediciton": "4.47",
+        "answer": "2 \\sqrt{5}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1543": {
+        "prediciton": "-\\frac{1}{2}",
+        "answer": "-\\frac{3}{5}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2103": {
+        "prediciton": "y = 0.4x - 7.56",
+        "answer": "y = \\frac{1}{2} x + 2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/976": {
+        "prediciton": "-\\frac{1}{3}, 3",
+        "answer": "3, -\\frac{1}{3}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1739": {
+        "prediciton": "(60, -88, 25, 4)",
+        "answer": "(60,-88,25,4)",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1447": {
+        "prediciton": "3",
+        "answer": "3",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2007": {
+        "prediciton": "\\frac{2x - 7}{(x - 2)(x + 1)}",
+        "answer": "\\frac{2x-7}{(x+1)(x-2)}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/496": {
+        "prediciton": "7\\pi",
+        "answer": "7 \\pi",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1335": {
+        "prediciton": "5",
+        "answer": "13",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/838": {
+        "prediciton": "(-a - b - 5, -a - b - 3)",
+        "answer": "(-5,-7)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1948": {
+        "prediciton": "\\frac{2}{5}",
+        "answer": "\\frac{2}{5}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/341": {
+        "prediciton": "\\frac{4}{5}",
+        "answer": "\\frac{4}{5}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1909": {
+        "prediciton": "44",
+        "answer": "44",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1323": {
+        "prediciton": "12.7037",
+        "answer": "\\left[0,\\frac{343}{27}\\right]",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1773": {
+        "prediciton": "[5, 7.07]",
+        "answer": "[5,5 \\sqrt{2}]",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1071": {
+        "prediciton": "-\\frac{82}{27}",
+        "answer": "-\\frac{82}{27}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2124": {
+        "prediciton": "-6, -3, -2, -1, 1, 2, 3, 6",
+        "answer": "-6, -3, -2, -1, 1, 2, 3, 6",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1499": {
+        "prediciton": null,
+        "answer": "1052",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1460": {
+        "prediciton": "50",
+        "answer": "49",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1899": {
+        "prediciton": "3.5",
+        "answer": "\\frac{7}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2098": {
+        "prediciton": "3.732",
+        "answer": "2 + \\sqrt{3}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1786": {
+        "prediciton": "2x^2 + 3x",
+        "answer": "2x^2+3x",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/38": {
+        "prediciton": "5",
+        "answer": "3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1552": {
+        "prediciton": null,
+        "answer": "-80",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1801": {
+        "prediciton": "0",
+        "answer": "199",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/4": {
+        "prediciton": "4",
+        "answer": "4",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/80": {
+        "prediciton": "1",
+        "answer": "1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/208": {
+        "prediciton": "17",
+        "answer": "17",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1114": {
+        "prediciton": "5 + 3\\sqrt{5}",
+        "answer": "-3 \\sqrt{5} - 5",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/121": {
+        "prediciton": "4",
+        "answer": "64",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1952": {
+        "prediciton": "(-\\infty, \\frac{1}{2}) \\cup (\\frac{1}{2}, \\frac{3}{2}]",
+        "answer": "(-\\infty, 0] \\cup (\\tfrac12, \\tfrac32]",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/55": {
+        "prediciton": "x^4 - 4x^3 + 5x^2 + 2x - 1 = 0",
+        "answer": "x^4 - 4x^3 + 5x^2 + 2x - 1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1616": {
+        "prediciton": "2.65",
+        "answer": "\\sqrt{7}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1303": {
+        "prediciton": "2.23606797749979",
+        "answer": "\\sqrt5",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/766": {
+        "prediciton": "f(x) = x^2 - 7x + 12",
+        "answer": "x^2 - 7x + 12",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/859": {
+        "prediciton": "49",
+        "answer": "49",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1895": {
+        "prediciton": "3 - 2f(x)",
+        "answer": "3 - 2f(x)",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1657": {
+        "prediciton": "0",
+        "answer": "500",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/42": {
+        "prediciton": "2",
+        "answer": "3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1986": {
+        "prediciton": "3 - \\sqrt{7}",
+        "answer": "3-\\sqrt7",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1656": {
+        "prediciton": "(a, b) = \\left(\\sqrt{7 - 4\\sqrt{3}}\\sqrt{4\\sqrt{3} + 7}, 4\\sqrt{3}\\right)",
+        "answer": "(1, 4\\sqrt3)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2095": {
+        "prediciton": "\\frac{8}{3}",
+        "answer": "\\frac{8}{3}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2191": {
+        "prediciton": "8",
+        "answer": "5",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1617": {
+        "prediciton": "-14, -7, -2, -1, -\\frac{2}{7}, -\\frac{1}{7}, \\frac{1}{7}, \\frac{2}{7}, 1, 2, 7, 14",
+        "answer": "12",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1640": {
+        "prediciton": "3",
+        "answer": "9",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1210": {
+        "prediciton": "-13x + 3",
+        "answer": "-13x+3",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1512": {
+        "prediciton": "500",
+        "answer": "500",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/78": {
+        "prediciton": "\\frac{3}{2} - \\frac{\\sqrt{13 - 4\\sqrt{3}}}{2}, \\frac{3}{2} + \\frac{\\sqrt{13 - 4\\sqrt{3}}}{2}, \\frac{3}{2} - \\frac{\\sqrt{4\\sqrt{3} + 13}}{2}, \\frac{3}{2} + \\frac{\\sqrt{4\\sqrt{3} + 13}}{2}",
+        "answer": "1+\\sqrt 2,\\ 1-\\sqrt 2,\\ 2+\\sqrt 3,\\ 2-\\sqrt 3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/570": {
+        "prediciton": "15",
+        "answer": "15",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1729": {
+        "prediciton": "0, 1",
+        "answer": "0,1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1553": {
+        "prediciton": "13",
+        "answer": "13",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1800": {
+        "prediciton": "2",
+        "answer": "2",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1945": {
+        "prediciton": "66673",
+        "answer": "66673",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1416": {
+        "prediciton": "-1",
+        "answer": "-1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1857": {
+        "prediciton": "x + 2",
+        "answer": "x + 2",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1965": {
+        "prediciton": "8",
+        "answer": "-4",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/907": {
+        "prediciton": "30",
+        "answer": "30",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1924": {
+        "prediciton": "2.31",
+        "answer": "3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1477": {
+        "prediciton": null,
+        "answer": "819",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/442": {
+        "prediciton": "-1",
+        "answer": "-1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/100": {
+        "prediciton": "0",
+        "answer": "43",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/23": {
+        "prediciton": null,
+        "answer": "7",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2109": {
+        "prediciton": "13",
+        "answer": "13",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1375": {
+        "prediciton": "47",
+        "answer": "47",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/340": {
+        "prediciton": "1",
+        "answer": "1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2022": {
+        "prediciton": "64",
+        "answer": "64",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1874": {
+        "prediciton": "\\text{an infinite number}",
+        "answer": "6",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/904": {
+        "prediciton": "-99",
+        "answer": "-99",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1462": {
+        "prediciton": null,
+        "answer": "331",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1474": {
+        "prediciton": "(0.5, 1.32287565553230)",
+        "answer": "\\left( \\frac{1}{2}, \\frac{\\sqrt{7}}{2} \\right)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1423": {
+        "prediciton": "10",
+        "answer": "10",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1634": {
+        "prediciton": "-\\frac{1}{2} + \\frac{\\sqrt{5}}{2}",
+        "answer": "\\frac{1-\\sqrt{5}}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/601": {
+        "prediciton": "3(x - 2)(x + 1)",
+        "answer": "3(x-2)(x+1)",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2018": {
+        "prediciton": null,
+        "answer": "80",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1008": {
+        "prediciton": "4",
+        "answer": "36",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/206": {
+        "prediciton": "38",
+        "answer": "12",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/590": {
+        "prediciton": "-588",
+        "answer": "-588",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/969": {
+        "prediciton": "\\frac{2}{r}",
+        "answer": "\\frac{2}{r}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1419": {
+        "prediciton": null,
+        "answer": "\\frac{1005}{1006}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2096": {
+        "prediciton": "1.902",
+        "answer": "\\frac{\\sqrt5-1}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1747": {
+        "prediciton": "6",
+        "answer": "87",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/637": {
+        "prediciton": "-2",
+        "answer": "12",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/158": {
+        "prediciton": "27648",
+        "answer": "27648",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1182": {
+        "prediciton": null,
+        "answer": "25",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1301": {
+        "prediciton": "[-1, 0] \\cup (0, 7)",
+        "answer": "\\{-1\\} \\cup [0,7)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1090": {
+        "prediciton": "0.3025",
+        "answer": "\\frac{\\sqrt{6}}{6}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1706": {
+        "prediciton": "12",
+        "answer": "9",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1356": {
+        "prediciton": null,
+        "answer": "341",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1454": {
+        "prediciton": "98.995",
+        "answer": "70 \\sqrt{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1638": {
+        "prediciton": null,
+        "answer": "-2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1403": {
+        "prediciton": "0",
+        "answer": "0",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/836": {
+        "prediciton": null,
+        "answer": "2004 \\sqrt{2} - 2003",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/135": {
+        "prediciton": "5",
+        "answer": "1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/498": {
+        "prediciton": "5.25",
+        "answer": "\\frac{15309}{256}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1157": {
+        "prediciton": "-1",
+        "answer": "-1,2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1854": {
+        "prediciton": "(\\frac{3}{2}, \\infty)",
+        "answer": "\\left[ \\frac{3}{2}, 2 \\right)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/861": {
+        "prediciton": null,
+        "answer": "4036",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1784": {
+        "prediciton": null,
+        "answer": "-46",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1290": {
+        "prediciton": "12.0",
+        "answer": "12",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/163": {
+        "prediciton": null,
+        "answer": "\\frac{3}{860}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2111": {
+        "prediciton": null,
+        "answer": "\\frac{1 + \\sqrt{5}}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/972": {
+        "prediciton": null,
+        "answer": "-\\frac{9}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/7": {
+        "prediciton": null,
+        "answer": "-3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1551": {
+        "prediciton": null,
+        "answer": "7",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/964": {
+        "prediciton": "1",
+        "answer": "1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1951": {
+        "prediciton": "-108",
+        "answer": "-108",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2015": {
+        "prediciton": "\\{-2, 6, -4\\}",
+        "answer": "\\{1\\pm\\sqrt{5},-2\\}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1455": {
+        "prediciton": "\\frac{16}{27}",
+        "answer": "\\frac{16 \\sqrt{3}}{9}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/933": {
+        "prediciton": "20152020",
+        "answer": "-5",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1510": {
+        "prediciton": "64",
+        "answer": "0",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1707": {
+        "prediciton": "0.24995049504950495",
+        "answer": "\\frac{5049}{20200}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1642": {
+        "prediciton": "-10",
+        "answer": "-10",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1838": {
+        "prediciton": "\\frac{1024}{27}",
+        "answer": "\\frac{1024}{27}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1029": {
+        "prediciton": "\\frac{\\sqrt{11}}{2}",
+        "answer": "\\frac{\\sqrt{11}}{2}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1746": {
+        "prediciton": "3",
+        "answer": "3",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/773": {
+        "prediciton": "2x^{10} + 2x^8 + 2x^6 + 2x^4 + 2x^2 + 2",
+        "answer": "2x^{10} + 2x^8 + 2x^6 + 2x^4 + 2x^2 + 2",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1253": {
+        "prediciton": "45",
+        "answer": "44",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/17": {
+        "prediciton": "0.25",
+        "answer": "\\frac{1}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1480": {
+        "prediciton": "840",
+        "answer": "92",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/374": {
+        "prediciton": "1",
+        "answer": "1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1592": {
+        "prediciton": null,
+        "answer": "\\sqrt{6}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1068": {
+        "prediciton": null,
+        "answer": "2 \\sqrt{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/37": {
+        "prediciton": "30",
+        "answer": "30",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/568": {
+        "prediciton": "2011015",
+        "answer": "\\frac{1}{2004!}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/641": {
+        "prediciton": "801",
+        "answer": "177",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/354": {
+        "prediciton": "35.282555494926044",
+        "answer": "\\frac{\\sqrt{20201} - 1}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/657": {
+        "prediciton": "g(x) = \\frac{1}{2 - x}",
+        "answer": "\\frac{1}{2 - x}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1727": {
+        "prediciton": "1, -1, -3i",
+        "answer": "1,-1,-3i",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/196": {
+        "prediciton": null,
+        "answer": "3x^2 - 7x + 4",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2019": {
+        "prediciton": "4",
+        "answer": "6+\\sqrt6",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1475": {
+        "prediciton": "-2.27",
+        "answer": "\\sqrt{3} - 4",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2035": {
+        "prediciton": "4",
+        "answer": "4",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1930": {
+        "prediciton": "0.255",
+        "answer": "\\frac{1}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1199": {
+        "prediciton": "100",
+        "answer": "134",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/682": {
+        "prediciton": null,
+        "answer": "18",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2131": {
+        "prediciton": "562711519881",
+        "answer": "117649",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1829": {
+        "prediciton": "0.000277777777777778",
+        "answer": "\\frac{1}{3600}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/723": {
+        "prediciton": null,
+        "answer": "89",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/666": {
+        "prediciton": "6.2",
+        "answer": "\\frac{31}{5}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1891": {
+        "prediciton": "20",
+        "answer": "20",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1757": {
+        "prediciton": "4025",
+        "answer": "2014",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/51": {
+        "prediciton": "\\frac{540}{319}",
+        "answer": "\\frac{36}{11}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1995": {
+        "prediciton": "(-5, 5)",
+        "answer": "(-5,\\sqrt{26}]",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1079": {
+        "prediciton": "18",
+        "answer": "18",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/735": {
+        "prediciton": "0.16923076923076924",
+        "answer": "\\frac{11}{65}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1350": {
+        "prediciton": "14",
+        "answer": "14",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1645": {
+        "prediciton": "19.0525588832576",
+        "answer": "28",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/522": {
+        "prediciton": "\\frac{2}{3}",
+        "answer": "\\frac{2}{3}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2157": {
+        "prediciton": "(3, -3, 1)",
+        "answer": "(3,-3,1)",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1055": {
+        "prediciton": "9x^2 - 16y^2 = 144",
+        "answer": "\\frac{x^2}{16} - \\frac{y^2}{9} = 1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/575": {
+        "prediciton": "\\frac{7}{12}",
+        "answer": "\\frac{4}{7}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/0": {
+        "prediciton": null,
+        "answer": "\\sqrt{74}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1805": {
+        "prediciton": "2.732",
+        "answer": "3 + 2 \\sqrt{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1385": {
+        "prediciton": "0",
+        "answer": "0,1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2116": {
+        "prediciton": "0.355",
+        "answer": "\\frac{2007}{2008}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1628": {
+        "prediciton": "1",
+        "answer": "10",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1297": {
+        "prediciton": "14.91",
+        "answer": "15 \\pi",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/685": {
+        "prediciton": "-2016",
+        "answer": "-2016",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/955": {
+        "prediciton": "1",
+        "answer": "17",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1034": {
+        "prediciton": "\\frac{a(3m^2 + 4\\sqrt{m^2 + 1} + 4)}{m^2}",
+        "answer": "(-a,0)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1937": {
+        "prediciton": null,
+        "answer": "34",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/386": {
+        "prediciton": "\\frac{3125}{46656}",
+        "answer": "\\frac{3125}{46656}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1999": {
+        "prediciton": "4",
+        "answer": "10",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1665": {
+        "prediciton": null,
+        "answer": "676",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1761": {
+        "prediciton": "k \\leq 5",
+        "answer": "(-\\infty,4)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/304": {
+        "prediciton": "\\frac{b^2}{4a^2}",
+        "answer": "\\frac{c}{a}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/187": {
+        "prediciton": "98",
+        "answer": "-50",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/30": {
+        "prediciton": "\\frac{20}{9}",
+        "answer": "\\frac{20}{9}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/885": {
+        "prediciton": "0.111",
+        "answer": "\\frac{3}{7}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/186": {
+        "prediciton": "1007.5",
+        "answer": "62",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/493": {
+        "prediciton": "-14",
+        "answer": "-14",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1625": {
+        "prediciton": "0",
+        "answer": "27",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1275": {
+        "prediciton": "5872",
+        "answer": "508",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/240": {
+        "prediciton": "197",
+        "answer": "\\frac{197}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/305": {
+        "prediciton": null,
+        "answer": "2039191",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1388": {
+        "prediciton": "1, 2",
+        "answer": "1,-2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1408": {
+        "prediciton": "\\frac{1}{2} + \\frac{\\sqrt{5}}{2}",
+        "answer": "-2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/344": {
+        "prediciton": null,
+        "answer": "1+\\sqrt5",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1849": {
+        "prediciton": "2",
+        "answer": "501",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2121": {
+        "prediciton": "6",
+        "answer": "6",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2064": {
+        "prediciton": null,
+        "answer": "214",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1218": {
+        "prediciton": "10^{260}",
+        "answer": "181",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1166": {
+        "prediciton": "18",
+        "answer": "100",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1170": {
+        "prediciton": "-4",
+        "answer": "-4",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1824": {
+        "prediciton": "0",
+        "answer": "4",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1961": {
+        "prediciton": "0.2",
+        "answer": "\\frac{1}{5}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1279": {
+        "prediciton": "0.00199",
+        "answer": "\\frac{2}{1005}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1111": {
+        "prediciton": "6366.20",
+        "answer": "\\frac{20000}{\\pi}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2013": {
+        "prediciton": "10",
+        "answer": "5",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/935": {
+        "prediciton": null,
+        "answer": "\\left[ -\\frac{1}{2}, \\frac{1}{2} \\right]",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1900": {
+        "prediciton": "5",
+        "answer": "-7",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/466": {
+        "prediciton": "16",
+        "answer": "8",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1453": {
+        "prediciton": null,
+        "answer": "4",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1146": {
+        "prediciton": null,
+        "answer": "5120",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/558": {
+        "prediciton": "3.97",
+        "answer": "(3,4]",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1994": {
+        "prediciton": null,
+        "answer": "p - q",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1243": {
+        "prediciton": "0",
+        "answer": "-26",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1185": {
+        "prediciton": "5.774",
+        "answer": "10\\sqrt3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1886": {
+        "prediciton": "-4 \\le k \\le 0",
+        "answer": "[-4,0)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/260": {
+        "prediciton": "12361",
+        "answer": "19",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2029": {
+        "prediciton": "-2.5",
+        "answer": "-\\tfrac{5}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/722": {
+        "prediciton": "x \\in \\mathbb{R} \\setminus (-2, -1)",
+        "answer": "(-\\infty,-2] \\cup [-1,\\infty)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1982": {
+        "prediciton": "-\\frac{5}{4}",
+        "answer": "-\\frac{5}{4}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1295": {
+        "prediciton": "7",
+        "answer": "\\frac{1}{9}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1503": {
+        "prediciton": "0.5",
+        "answer": "\\frac{4}{9}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1153": {
+        "prediciton": null,
+        "answer": "6",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1850": {
+        "prediciton": null,
+        "answer": "8",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1807": {
+        "prediciton": "\\frac{\\sqrt{3}}{6} + \\frac{1}{2}",
+        "answer": "\\frac{1}{12}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/977": {
+        "prediciton": "625",
+        "answer": "-375 + 500i",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/259": {
+        "prediciton": "0.5",
+        "answer": "\\frac{1}{2}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/465": {
+        "prediciton": "1, -1, 2",
+        "answer": "-2,-1,1,2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/936": {
+        "prediciton": "24",
+        "answer": "24,-3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/275": {
+        "prediciton": "3",
+        "answer": "3",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1240": {
+        "prediciton": "0.015625",
+        "answer": "\\frac{1}{64}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2196": {
+        "prediciton": null,
+        "answer": "\\frac{1}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1755": {
+        "prediciton": "31",
+        "answer": "31",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1256": {
+        "prediciton": "0",
+        "answer": "\\frac{3}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1743": {
+        "prediciton": null,
+        "answer": "12",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/664": {
+        "prediciton": "12",
+        "answer": "12",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1651": {
+        "prediciton": "2",
+        "answer": "3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1626": {
+        "prediciton": "2x^2 + 5x - 1",
+        "answer": "2x^2 + 5x - 1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/613": {
+        "prediciton": "0.027777777777777776",
+        "answer": "\\frac{19}{540}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/582": {
+        "prediciton": "169",
+        "answer": "850",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1734": {
+        "prediciton": null,
+        "answer": "-9",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/828": {
+        "prediciton": null,
+        "answer": "-\\frac{2010012}{2010013}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/24256": {
+        "prediciton": "\\frac{38}{3}",
+        "answer": "10",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1372": {
+        "prediciton": "4.77",
+        "answer": "2\\sqrt{10}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1519": {
+        "prediciton": null,
+        "answer": "4",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1775": {
+        "prediciton": null,
+        "answer": "-3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1974": {
+        "prediciton": null,
+        "answer": "336",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1562": {
+        "prediciton": "48",
+        "answer": "48",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1132": {
+        "prediciton": null,
+        "answer": "19",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/150": {
+        "prediciton": "50800",
+        "answer": "49896",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/500": {
+        "prediciton": "29800",
+        "answer": "29800",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2030": {
+        "prediciton": null,
+        "answer": "56",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/279": {
+        "prediciton": "10",
+        "answer": "10",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/812": {
+        "prediciton": null,
+        "answer": "157",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1124": {
+        "prediciton": "10",
+        "answer": "38",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/956": {
+        "prediciton": "(-102, 139, -1)",
+        "answer": "(6,31,-1)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1125": {
+        "prediciton": "11",
+        "answer": "11",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1934": {
+        "prediciton": null,
+        "answer": "-4",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1467": {
+        "prediciton": null,
+        "answer": "8n^2 + 4n + 1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/385": {
+        "prediciton": "236",
+        "answer": "225",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2066": {
+        "prediciton": "0.4025",
+        "answer": "\\frac{161}{400}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2089": {
+        "prediciton": null,
+        "answer": "10879",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2158": {
+        "prediciton": "4826",
+        "answer": "13",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1148": {
+        "prediciton": "1.0769230769230766",
+        "answer": "\\frac{14}{13}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/891": {
+        "prediciton": "59",
+        "answer": "49",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/716": {
+        "prediciton": "60",
+        "answer": "90",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/645": {
+        "prediciton": null,
+        "answer": "-71",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2139": {
+        "prediciton": "1024",
+        "answer": "1024",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1484": {
+        "prediciton": null,
+        "answer": "(27,\\infty)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1607": {
+        "prediciton": "20",
+        "answer": "20",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1312": {
+        "prediciton": "990",
+        "answer": "990",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1187": {
+        "prediciton": "\\frac{16}{3}",
+        "answer": "\\frac{16}{3}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1580": {
+        "prediciton": null,
+        "answer": "175",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1646": {
+        "prediciton": "2",
+        "answer": "224",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1703": {
+        "prediciton": "12",
+        "answer": "12",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/366": {
+        "prediciton": "40",
+        "answer": "40",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1778": {
+        "prediciton": null,
+        "answer": "\\frac{1}{5120}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1328": {
+        "prediciton": null,
+        "answer": "36",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2011": {
+        "prediciton": "x = a + \\frac{b}{2}",
+        "answer": "\\frac{2a + b}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/960": {
+        "prediciton": null,
+        "answer": "\\frac{17}{21}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1806": {
+        "prediciton": null,
+        "answer": "\\frac{13}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1105": {
+        "prediciton": "\\text{all real values of } a",
+        "answer": "8,-112",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/3": {
+        "prediciton": null,
+        "answer": "\\frac{416}{27}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2115": {
+        "prediciton": "203",
+        "answer": "203",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1386": {
+        "prediciton": null,
+        "answer": "\\sqrt{3}-1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1502": {
+        "prediciton": "14",
+        "answer": "11",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2142": {
+        "prediciton": "6",
+        "answer": "6",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/183": {
+        "prediciton": null,
+        "answer": "(2,\\infty)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1620": {
+        "prediciton": null,
+        "answer": "0",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1270": {
+        "prediciton": null,
+        "answer": "1209",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1732": {
+        "prediciton": "y = px^2 + qx + r",
+        "answer": "y = x^2 + 2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1227": {
+        "prediciton": null,
+        "answer": "19",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1548": {
+        "prediciton": "997",
+        "answer": "997",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/22": {
+        "prediciton": null,
+        "answer": "8",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1421": {
+        "prediciton": "-668i",
+        "answer": "-668i",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/551": {
+        "prediciton": null,
+        "answer": "\\frac{2807}{27}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/910": {
+        "prediciton": "0.4031",
+        "answer": "\\frac{32\\pi}{81}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1876": {
+        "prediciton": "5.5",
+        "answer": "\\frac{11}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2020": {
+        "prediciton": "-\\frac{1}{2}",
+        "answer": "-\\frac{1}{2}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/117": {
+        "prediciton": "15",
+        "answer": "15",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1122": {
+        "prediciton": null,
+        "answer": "-2x^2 + x - 3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1339": {
+        "prediciton": null,
+        "answer": "\\frac{24}{5}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1856": {
+        "prediciton": "-63",
+        "answer": "-63",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1440": {
+        "prediciton": "9",
+        "answer": "\\frac{81}{41}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1417": {
+        "prediciton": null,
+        "answer": "[-36,104]",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/422": {
+        "prediciton": null,
+        "answer": "\\frac{9}{4}, -\\frac{9}{4}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1397": {
+        "prediciton": "254",
+        "answer": "254",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1544": {
+        "prediciton": null,
+        "answer": "6",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1401": {
+        "prediciton": null,
+        "answer": "\\frac{2}{3}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/875": {
+        "prediciton": null,
+        "answer": "\\frac{25}{13}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1354": {
+        "prediciton": "998",
+        "answer": "\\frac{1997}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1587": {
+        "prediciton": "8.0623",
+        "answer": "\\sqrt{65}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/459": {
+        "prediciton": "7",
+        "answer": "7",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1179": {
+        "prediciton": "6",
+        "answer": "6",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/14": {
+        "prediciton": "28.74",
+        "answer": "\\frac{192\\sqrt{14}}{25}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/232": {
+        "prediciton": "81",
+        "answer": "81",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/662": {
+        "prediciton": "5.36",
+        "answer": "1 \\pm \\sqrt{19}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1342": {
+        "prediciton": "38",
+        "answer": "38",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/2094": {
+        "prediciton": "-3.60555127546399, 2.82842712474619",
+        "answer": "-\\sqrt{14}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1987": {
+        "prediciton": "16.392",
+        "answer": "6\\sqrt{3}+6",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1969": {
+        "prediciton": null,
+        "answer": "67",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1197": {
+        "prediciton": "\\frac{8}{63}",
+        "answer": "\\frac{3}{56}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2187": {
+        "prediciton": "(-24, -145)",
+        "answer": "(6,5)",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/771": {
+        "prediciton": null,
+        "answer": "3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1181": {
+        "prediciton": "|z| = 0, 1.",
+        "answer": "0,1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/272": {
+        "prediciton": "163",
+        "answer": "163",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1355": {
+        "prediciton": "-1",
+        "answer": "-1",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/527": {
+        "prediciton": "1.4142",
+        "answer": "\\sqrt{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2152": {
+        "prediciton": "0",
+        "answer": "0",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1791": {
+        "prediciton": "-0.375",
+        "answer": "-\\frac{3}{8}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2017": {
+        "prediciton": null,
+        "answer": "-338016",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1400": {
+        "prediciton": "-4",
+        "answer": "-6",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1050": {
+        "prediciton": "1",
+        "answer": "-1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/966": {
+        "prediciton": "16",
+        "answer": "16",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1379": {
+        "prediciton": "16",
+        "answer": "163",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/835": {
+        "prediciton": null,
+        "answer": "2 \\pi + 4",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/970": {
+        "prediciton": null,
+        "answer": "6 + 8i, 6 + 17i",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/39": {
+        "prediciton": null,
+        "answer": "x^2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/161": {
+        "prediciton": "0.666666666666666",
+        "answer": "\\frac{46}{3}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1011": {
+        "prediciton": null,
+        "answer": "\\frac{1777}{1492}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2144": {
+        "prediciton": "61",
+        "answer": "61",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1436": {
+        "prediciton": "8080",
+        "answer": "8080",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1820": {
+        "prediciton": "\\frac{1}{5}",
+        "answer": "\\frac{1}{5}, -\\frac{1}{3}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1318": {
+        "prediciton": "\\frac{1}{3}",
+        "answer": "\\frac{1}{3}",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1748": {
+        "prediciton": "2007",
+        "answer": "2007",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/1461": {
+        "prediciton": "4.472",
+        "answer": "2 \\sqrt{5}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1877": {
+        "prediciton": null,
+        "answer": "1112",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/141": {
+        "prediciton": null,
+        "answer": "2x^2 - 2x + 3",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2037": {
+        "prediciton": "13",
+        "answer": "4022030",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/2172": {
+        "prediciton": null,
+        "answer": "11",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/911": {
+        "prediciton": "1.897",
+        "answer": "\\frac{24}{5}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/507": {
+        "prediciton": "\\omega + \\overline{\\omega} = 0",
+        "answer": "\\sqrt{5} - 1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/946": {
+        "prediciton": "-n(2n + 1)",
+        "answer": "-2n^2 - n",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1836": {
+        "prediciton": null,
+        "answer": "2",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/803": {
+        "prediciton": null,
+        "answer": "8",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1772": {
+        "prediciton": "\\frac{1}{n}",
+        "answer": "\\frac{1}{2}",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/878": {
+        "prediciton": null,
+        "answer": "x^3 - 3x^2 + 9x - 9",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/356": {
+        "prediciton": "40",
+        "answer": "40",
+        "is_equiv": true
+    },
+    "math/intermediate_algebra/706": {
+        "prediciton": "f(x) = x + 1",
+        "answer": "1 - x",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/244": {
+        "prediciton": null,
+        "answer": "11",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/1508": {
+        "prediciton": "-1.0",
+        "answer": "-1",
+        "is_equiv": false
+    },
+    "math/intermediate_algebra/35": {
+        "prediciton": "1.21",
+        "answer": "\\frac{1 + \\sqrt{2}}{2}",
+        "is_equiv": false
+    }
+}

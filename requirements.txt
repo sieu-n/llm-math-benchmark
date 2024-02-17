@@ -1,6 +1,7 @@
+aiojobs
 python-dotenv
 pandas
-litellm
+opeani==1.9.0
 # for dev
 ruff
 pytest

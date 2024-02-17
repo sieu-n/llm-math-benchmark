@@ -1,8 +1,97 @@
-__all__ = ["is_equiv", "remove_boxed"]
+import logging
+from dataclasses import dataclass
+from enum import Enum
+from pathlib import Path
+from typing import Optional, Union
+
+import pandas as pd
+
+__all__ = ["is_equiv", "parse_prediction", "MathSample"]
+
+RAW_DATA_PATH = "./data/data-raw/MATH"
 
 
-def remove_boxed(s):
-    s = last_boxed_only_string(s)
+class _Split(str, Enum):
+    train = "train"
+    test = "test"
+
+
+class _Subject(str, Enum):
+    algebra = "algebra"
+    counting_and_probability = "counting_and_probability"
+    geometry = "geometry"
+    intermediate_algebra = "intermediate_algebra"
+    number_theory = "number_theory"
+    prealgebra = "prealgebra"
+    precalculus = "precalculus"
+
+
+@dataclass
+class MathMeta:
+    answer: str
+    level: int
+    subject: _Subject
+
+
+@dataclass
+class MathSample:
+    # maybe implement some global interface for datset?
+    id: str  # e.g. math/number_theory/764
+    problem: str
+    answer: str
+    split: _Split
+    meta: MathMeta
+
+    def __post_init__(self):
+        if isinstance(self.meta, dict):
+            # lazy hack
+            self.meta = MathMeta(**self.meta)
+
+    def is_equiv(self, other: str, normalize=True):
+        if normalize:
+            other = parse_prediction(other)
+        return is_equiv(self.meta.answer, other)
+
+    @property
+    def filepath(self):
+        q_id = self.id.split("/")[-1]
+        return Path(RAW_DATA_PATH) / self.split.value / self.meta.subject.value / f"{q_id}.json"
+
+
+def load_hendrycks(
+    split: Optional[Union[_Split, str]],
+    subject: Optional[Union[_Subject, str]] = None,
+    level: Optional[int] = None,
+    base_filepath: Optional[str] = "data/math/math-all.jsonl",
+) -> list[MathSample]:
+    df = pd.read_json(base_filepath, lines=True)
+
+    if isinstance(split, str) and split == "all":
+        pass
+    else:
+        if isinstance(split, str):
+            split = _Split(split)
+        df = df[df["split"] == split.value]
+
+    if subject is not None:
+        if isinstance(subject, str):
+            subject = _Subject(subject)
+        df = df[df["meta"].apply(lambda x: x.get("subject") == subject.value)]
+
+    if level is not None:
+        df = df[df["meta"].apply(lambda x: x.get("level") == level)]
+
+    ret = df.to_dict(orient="records")
+    return [MathSample(**r) for r in ret]
+
+
+def parse_prediction(s: str) -> str:
+    if s is None:
+        return None
+    return _remove_boxed(_last_boxed_only_string(s))
+
+
+def _remove_boxed(s):
     left = "\\boxed{"
     try:
         assert s[: len(left)] == left
@@ -12,7 +101,7 @@ def remove_boxed(s):
         return None
 
 
-def last_boxed_only_string(string):
+def _last_boxed_only_string(string):
     idx = string.rfind("\\boxed")
     if idx < 0:
         idx = string.rfind("\\fbox")
@@ -113,6 +202,8 @@ def _fix_sqrt(string):
 
 
 def _strip_string(string):
+    # normalize text inside `boxed`
+
     # linebreaks
     string = string.replace("\n", "")
     # print(string)
@@ -147,7 +238,7 @@ def _strip_string(string):
 
     # remove percentage
     string = string.replace("\\%", "")
-    string = string.replace("\%", "")
+    string = string.replace("%", "")
 
     # " 0." equivalent to " ." and "{0." equivalent to "{." Alternatively, add "0" if "." is the start of the string
     string = string.replace(" .", " 0.")
@@ -183,9 +274,11 @@ def _strip_string(string):
 
 
 def is_equiv(str1, str2, verbose=False):
+    # compare answer strings inside `boxed`.
+    # Raw model output should be processed using `parse_prediction` first. MathSample.is_equiv() does this automatically.
     if str1 is None and str2 is None:
-        print("WARNING: Both None")
-        return True
+        logging.warning("WARNING: Both None")
+        return False
     if str1 is None or str2 is None:
         return False
 
